@@ -1,0 +1,16 @@
+{
+  "name": "sukuna",
+  "version": "1.0.0",
+  "description": "por que eu gosto do sukuna",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "nathan",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.2.2",
+    "react": "^19.0.0",
+    "react-doom": "^1.0.0"
+  }
+}
